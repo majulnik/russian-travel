@@ -7,7 +7,7 @@
 }
 
 .header__lang-item:hover {
-    opacity: 0.5;  
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 767px) {
