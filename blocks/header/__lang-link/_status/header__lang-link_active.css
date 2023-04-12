@@ -1,0 +1,8 @@
+.header__lang-link_active {
+    box-shadow: 0 2px 0 0 #FFFFFF;  
+    transition: opacity .5s ease;
+}
+
+.header__lang-link_active:hover {
+    opacity: 0.5;  
+}

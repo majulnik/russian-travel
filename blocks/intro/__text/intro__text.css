@@ -1,0 +1,14 @@
+.intro__text {
+    color: #FFFFFF; 
+    font-size: 16px;
+    line-height: 26.08px;
+    font-weight: 400;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__text {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

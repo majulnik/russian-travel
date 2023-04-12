@@ -1,0 +1,25 @@
+.cover__link::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    content: "";
+    background-color: #2A2C2F;
+    opacity: 0.3;
+    transition-duration: 0.8s;
+}
+
+.cover__link:hover:after {
+    opacity: 0.8;
+}
+
+.cover__link {
+    position: relative;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}

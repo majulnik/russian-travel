@@ -1,0 +1,10 @@
+.places {
+    margin: 0 auto;
+    max-width: 984px;
+}
+
+@media screen and (max-width: 1023px) {
+    .places {
+        margin: 0 24px;
+    }
+}
