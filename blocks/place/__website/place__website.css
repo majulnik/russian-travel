@@ -8,6 +8,6 @@
 @media screen and (max-width: 767px) {
     .place__website {
         align-self: start;
-        padding-left: 18px;
+        padding: 0 0 32px 18px;
     }
 }
