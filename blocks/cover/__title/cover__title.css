@@ -1,5 +1,4 @@
 .cover__title {
-    padding-top: 32px;
     text-align: center;
     font-size: 72px;
     line-height: 76px;
@@ -10,20 +9,8 @@
     z-index: 1;
 }
 
-@media screen and (max-width: 1279px) {
-    .cover__title {
-        padding-top: 195px;
-}
-
-@media screen and (max-width: 1023px) {
-    .cover__title {
-        padding-top: 115px;
-    }
-}
-
 @media screen and (max-width: 767px) {
     .cover__title {
-        padding-top: 33px;
         font-size: 32px;
         line-height: 35px;
         max-width: 288px;

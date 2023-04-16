@@ -24,5 +24,6 @@
     .header {
         max-width: 288px;
          min-height: 42px;
+         margin: 16px auto 48px;
     }
 }
