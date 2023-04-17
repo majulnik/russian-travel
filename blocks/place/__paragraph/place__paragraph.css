@@ -7,10 +7,6 @@
     line-height: 29.34px;
 }
 
-.place__paragraph br {
-    display: none;
-}
-
 .place__paragraph:last-child {
     margin-bottom: 0;
 }
@@ -26,9 +22,4 @@
     .place__paragraph {
         padding: 0 16px;
     }
-
-    .place__paragraph br {
-        display: none;
-    }
 }
-
